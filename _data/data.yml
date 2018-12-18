@@ -33,7 +33,7 @@ sidebar:
 
 
     MOST PROUD OF :
-      - Development
+      - item: Development
         link:
 
       - item: Learn
@@ -45,7 +45,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      A multi-skilled IT with good all-round supervisory and technical expertise. Very capable with a proven ability to ensure the smooth running of ICT systems and to provide IT services that will improve the efficiency and performance of a company. Extensive practical knowledge of complex systems builds, hardware and software testing, network support, technical and support Looking for a new and challenging managerial position, one that will make best use of my existing skills & experiences also further my personal development
+      A multi-skilled IT with good all-round supervisory and technical expertise. 
+      Very capable with a proven ability to ensure the smooth running of ICT systems and to provide IT services 
+      that will improve the efficiency and performance of a company. Extensive practical knowledge of complex systems builds, 
+      hardware and software testing, network support, technical and support Looking for a new and challenging managerial position,
+       one that will make best use of my existing skills & experiences also further my personal development
 
 education:
     - degree: MSc in Computer Science
