@@ -83,7 +83,7 @@ experiences:
       time: 5/2016 - Present
       company: United Nations Migration Agency – IOM
       details: |
-        Responsibilities :
+    #    Responsibilities :
     •	Ensure business continuity with full responsibility for 100% uptime, full data
         Backup, recovery and system redundancy.
     •	Managed full documentation of the existing IT systems, performed a root cause
