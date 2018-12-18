@@ -8,52 +8,44 @@ sidebar:
 
     # Profile information
     name: Maen Deeb
-    tagline: Full Stack Developer
+    tagline: IT Specialist
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
-    gitlab:
+    email: maendeeb@outlook.com
+    phone: +963 940005530
+    # website: blog.webjeda.com #do not add http://
+    linkedin: Maendeeb
+   # github: sharu725
+   # gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 'maendeeb'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
+        level: Good
 
-      - idiom: French
-        level: Professional
+      - idiom: Arabic
+        level: Native 
 
-      - idiom: Spanish
-        level: Professional
 
-    interests:
-      - item: Climbing
+    MOST PROUD OF :
+      - Development
         link:
 
-      - item: Snowboarding
+      - item: Learn
         link:
 
-      - item: Cooking
+      - item: Physical & Mental Health
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      A multi-skilled IT with good all-round supervisory and technical expertise. Very capable with a proven ability to ensure the smooth running of ICT systems and to provide IT services that will improve the efficiency and performance of a company. Extensive practical knowledge of complex systems builds, hardware and software testing, network support, technical and support Looking for a new and challenging managerial position, one that will make best use of my existing skills & experiences also further my personal development
 
 education:
     - degree: MSc in Computer Science
