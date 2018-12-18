@@ -98,18 +98,27 @@ experiences:
         
 
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: IT Manager
+      time: 12/2012 - 03/2016
+      company: Le Meridian Hotel
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Responsibilities : 
+        - Handle IT team to make best performance 
+        - Manage leadership in the establishment of project scope, technical strategy, cost, budget and staff support requirements with new IT initiatives. 
+        - Prepare Policy & Procedures for the IT Department and for the user department. 
+        - Managing Disaster Recovery Process and ensuring regular daily backup is taken 
+        - Plan, assign and take the report from the IT team 
+        - Defined, documented and published all IT policies, procedures and standards. 
+        - Developed and implemented network security policies 
+        - Facilitated server builds and network configurations, including migration to a virtual environment 
+        - Established annual objectives and training plans 
+        - Administration and support of all infrastructure including Windows Server 2008R2, file/print servers, Microsoft Exchange 2010, Active Directory and DNS services, WSUS , firewalls , ESXI 
+        - Responsible for smooth functioning and cordination of vendors for Guest 
+        - Internet, PMS(Opera), POS(Micros), Telephony systems , Door System (KabaSaflok) and other software vendors. 
+        - Support network monitoring systems to aid in application performance profiling(Nagios). 
+        - Defined a strategic plans to address the system issues, End-Of-Life OS & hardware issues including core LAN upgrade, SAN & server refresh, and a Hotelwide Wi-Fi refresh. 
 
-          - Bullet point
-          - Bullet point
+
 
     - role: UI Developer
       time: 2012 - 2014
