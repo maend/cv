@@ -83,7 +83,7 @@ experiences:
       time: 5/2016 - Present
       company: United Nations Migration Agency – IOM
       details: |
-    #    Responsibilities :
+       Responsibilities :
     #	Ensure business continuity with full responsibility for 100% uptime, full data
     #    Backup, recovery and system redundancy.
    # 	Managed full documentation of the existing IT systems, performed a root cause
@@ -96,8 +96,10 @@ experiences:
     #	Managing and monitoring information security
     #	Trainer for new IT Software and Technology
     #	Supervisor of IT in The Field
-    	Manage web site with Drupal and Cpanel.
-
+       	Manage web site with Drupal and Cpanel.
+        
+          - Bullet point
+          - Bullet point
 
     - role: Senior Software Engineer
       time: 2014 - 2015
