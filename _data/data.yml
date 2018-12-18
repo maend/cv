@@ -81,7 +81,7 @@ education:
 experiences:
     - role: Senior ICT Assistant
       time: 5/2016 - Present
-      company: United Nations Migration Agency – IOM
+      company: United Nations Migration Agency – IOM (Damascus , Syria)
       details: |
         Responsibilities : 
         - Ensure business continuity with full responsibility for 100% uptime, full data Backup, recovery and system redundancy. 
@@ -99,7 +99,7 @@ experiences:
 
     - role: IT Manager
       time: 12/2012 - 03/2016
-      company: Le Meridian Hotel
+      company: Le Meridian Hotel (Damascus , Syria)
       details: |
         Responsibilities : 
         - Handle IT team to make best performance 
@@ -119,18 +119,38 @@ experiences:
 
 
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: IT System Administrator
+      time: 10/2011 - 11/2012
+      company: Dedeman Hotel (Damascus , Syria)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Responsibilities : 
+        - Management and control of firewall 
+        - Backup and Restore data By Symantec Backup Exec. 
+        - Update Systems and software License. 
+        - Manage File Server 
+        - Manage trend micro Server. 
+        - Network infrastructure arrangements. 
+        - Troubleshooting.
 
-          - Bullet point
-          - Bullet point
+    - role: IT support
+      time: 1/2009 - 10/2011
+      company: Nadia studio (Damascus , Syria)
+      details: |
+        Responsibilities : 
+        - IT support & troubleshooting. 
+        - Upgrading hardware and software. 
+        - “Montage” depending to my Adobe Premiere experience in editing videos as professional editor. 
+        - graphic designer by Adobe After Effect and Photoshop  
+
+    - role: Technical support
+      time: 3/2009 - 9/2010
+      company: Dubai - Egypt Arab and Alaan channels office (Damascus , Syria)
+      details: |
+        Responsibilities : 
+        - IT support & troubleshooting.  
+        - “Montage” depending to my Adobe Premiere experience
+ 
+
 
 projects:
     title: Projects
