@@ -182,6 +182,7 @@ projects:
 
       - title: Cisco Certified Security Associate (CCNA Security)
         link: "#"
+    #    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
         
         - title: Cisco Certified Design Associate (CCDA)
         link: "#"
