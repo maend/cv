@@ -177,38 +177,19 @@ projects:
         link: "#hook"
         tagline: "Red Hat System Administrator (RHCSA) - Red Hat High Availability Clustering"
 
-    #  - title: 
-   #     link: "#"
-    #    tagline: "Cisco Certified network Associate (CCNA)"
+      - title: CompTIA
+        link: "#hook"
+        tagline: "Security +"
 
-    #  - title: 
-    #    link: "#"
-    #    tagline: "Cisco Certified Security Associate (CCNA Security)"
+      - title: EC-Council
+        link: "#hook"
+        tagline: "Certified Ethical Hacker (CEH) V9"
         
-    #   - title: 
-    #    link: "#"
-    #     tagline: "Cisco Certified Design Associate (CCDA)"
+      - title: AXELOS
+        link: "#hook"
+        tagline: "Information Technology Infrastructure Library V3"
         
-    #   - title: 
-    #    link: "#"
-    #     tagline: "VMware Certified Professional (VCP-DCV)"
-        
-    #    - title: Red Hat System Administrator (RHCSA)
-    #    link: "#"
-        
-    #    - title: Red Hat High Availability Clustering
-    #    link: "#"
-        
-    #    - title: CompTIA Security +
-    #    link: "#"
-        
-    #    - title: Certified Ethical Hacker (CEH) V9
-    #    link: "#"
-        
-     #   - title: Information Technology Infrastructure Library V3
-     #   link: "#"
-        
-
+    
 #publications:
  #   title: Publications
  #   intro: |
