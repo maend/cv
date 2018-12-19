@@ -53,19 +53,6 @@ career-profile:
        one that will make best use of my existing skills & experiences also further my personal development
 
 education:
-   # - degree: MSc in Computer Science
-    #  university: University of London
-    #  time: 2011 - 2012
-    #  details: |
-    #    Describe your study here lorem ipsum dolor sit amet, consectetuer
-    #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-    #    sociis natoque penatibus et magnis dis parturient montes, nascetur
-    #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-    #    pretium quis, sem.
-
-    #      - Bullet point
-    #      - Bullet point
-
     - degree: BSc in Information System Engineering 
       university: Syrian Virtual University
      # time: 2007 - 2011
@@ -78,6 +65,18 @@ education:
 
     #      - Bullet point
      #     - Bullet point
+    - degree: Business Technology Management
+      university: Indian School of Business
+    #  time: 2011 - 2012
+    #  details: |
+    #    Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #    sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #    ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #    pretium quis, sem.
+
+    #      - Bullet point
+    #      - Bullet point
 
 experiences:
     - role: Senior ICT Assistant
