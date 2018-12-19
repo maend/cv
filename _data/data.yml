@@ -184,26 +184,26 @@ projects:
     #    link: "#"
     #    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
         
-        - title: Cisco Certified Design Associate (CCDA)
-        link: "#"
+    #    - title: Cisco Certified Design Associate (CCDA)
+    #    link: "#"
         
-        - title: VMware Certified Professional (VCP-DCV)
-        link: "#"
+    #    - title: VMware Certified Professional (VCP-DCV)
+    #    link: "#"
         
-        - title: Red Hat System Administrator (RHCSA)
-        link: "#"
+    #    - title: Red Hat System Administrator (RHCSA)
+    #    link: "#"
         
-        - title: Red Hat High Availability Clustering
-        link: "#"
+    #    - title: Red Hat High Availability Clustering
+    #    link: "#"
         
-        - title: CompTIA Security +
-        link: "#"
+    #    - title: CompTIA Security +
+    #    link: "#"
         
-        - title: Certified Ethical Hacker (CEH) V9
-        link: "#"
+    #    - title: Certified Ethical Hacker (CEH) V9
+    #    link: "#"
         
-        - title: Information Technology Infrastructure Library V3
-        link: "#"
+     #   - title: Information Technology Infrastructure Library V3
+     #   link: "#"
         
 
 #publications:
