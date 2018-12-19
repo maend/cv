@@ -163,7 +163,7 @@ projects:
     assignments:
      - title: Microsoft
       #  link: "#hook"
-      tagline: "Microsoft Certified IT Professional (MCITP) - Microsoft Exchange Server 2016 - Microsoft Forefront Threat  Management Gateway - Microsoft System Center Configuration Manager"
+        tagline: "Microsoft Certified IT Professional (MCITP) - Microsoft Exchange Server 2016 - Microsoft Forefront Threat  Management Gateway - Microsoft System Center Configuration Manager"
 
 #      - title: 
   #      link: "#"
