@@ -162,8 +162,10 @@ projects:
     assignments:
       - title: Microsoft
         link: "#hook"
-        tagline: "Microsoft Certified IT Professional (MCITP) "
-        tagline: "Microsoft Exchange Server 2016  "
+    #    tagline: "Microsoft Certified IT Professional (MCITP) "
+        details: |
+        - Microsoft Certified IT Professional (MCITP) 
+        - “Montage” depending to my Adobe Premiere experience
 
       - title: DevStudio
         link: "#"
