@@ -214,23 +214,57 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: MS office and office 365
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: MS Windows OS
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: MS Windows Server
+        level: 100%
 
-      - name: HTML5 & CSS
+      - name: MS Exchange Server
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Linux Tools
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Design and Manage
+        level: 100%
+        
+      - name: Virtualization
+        level: 85%
+        
+      - name: Symantec
+        level: 95%
+        
+      - name: Storage Technology
+        level: 85%
+        
+      - name: Firewall and Proxy
+        level: 89%
+        
+      - name: Cloud Computing
+        level: 75%
+        
+      - name: Networking
+        level: 90%
+        
+      - name: Security
+        level: 80%
+        
+      - name: Monitoring Systems
+        level: 70%
+        
+      - name: Management
+        level: 90%
+        
+      - name: Programing Language
+        level: 50%
+        
+      - name: Adobe
+        level: 90%
+       
 
 publications:
     title: Tags
