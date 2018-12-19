@@ -164,31 +164,33 @@ projects:
       #  link: "#hook"
         tagline: "Microsoft Certified IT Professional (MCITP)"
 
-  #    - title: Microsoft Exchange Server 2016
+      - title: 
   #      link: "#"
-  #      tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Microsoft Exchange Server 2016"
 
-  #    - title: Microsoft Forefront Threat  Management Gateway
+      - title: 
   #      link: "#"
-  #      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Microsoft Forefront Threat  Management Gateway"
 
-  #    - title: Microsoft System Center Configuration Manager
+      - title: 
   #      link: "#"
-    #    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Microsoft System Center Configuration Manager"
 
-   #   - title: Cisco Certified network Associate (CCNA)
+      - title: 
    #     link: "#"
-    #    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Cisco Certified network Associate (CCNA)"
 
-   #   - title: Cisco Certified Security Associate (CCNA Security)
+      - title: 
     #    link: "#"
-    #    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Cisco Certified Security Associate (CCNA Security)"
         
-    #    - title: Cisco Certified Design Associate (CCDA)
+       - title: 
     #    link: "#"
+         tagline: "Cisco Certified Design Associate (CCDA)"
         
-    #    - title: VMware Certified Professional (VCP-DCV)
+       - title: 
     #    link: "#"
+         tagline: "VMware Certified Professional (VCP-DCV)"
         
     #    - title: Red Hat System Administrator (RHCSA)
     #    link: "#"
