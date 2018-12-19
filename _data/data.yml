@@ -161,8 +161,8 @@ projects:
 #      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-     - title: Microsoft
-      #  link: "#hook"
+      - title: Microsoft
+        link: "#hook"
         tagline: "Microsoft Certified IT Professional (MCITP) - Microsoft Exchange Server 2016 - Microsoft Forefront Threat  Management Gateway - Microsoft System Center Configuration Manager"
 
 #      - title: 
