@@ -154,43 +154,46 @@ experiences:
 
 projects:
     title: PROFESSIONAL DEVELOPMENT
- #   intro: >
- #     You can list your side projects or open source libraries in this
- #     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
- #     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: >
+      - Microsoft Certified IT Professional (MCITP)
+      - Microsoft Exchange Server 2016
+      
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: 
+#      - title: 
       #  link: "#hook"
-        tagline: "Microsoft Certified IT Professional (MCITP)"
+#        tagline: "Microsoft Certified IT Professional (MCITP)"
 
-      - title: 
+#      - title: 
   #      link: "#"
-        tagline: "Microsoft Exchange Server 2016"
+ #       tagline: "Microsoft Exchange Server 2016"
 
-      - title: 
+  #    - title: 
   #      link: "#"
-        tagline: "Microsoft Forefront Threat  Management Gateway"
+   #     tagline: "Microsoft Forefront Threat  Management Gateway"
 
-      - title: 
+   #   - title: 
   #      link: "#"
-        tagline: "Microsoft System Center Configuration Manager"
+   #     tagline: "Microsoft System Center Configuration Manager"
 
-      - title: 
+    #  - title: 
    #     link: "#"
-        tagline: "Cisco Certified network Associate (CCNA)"
+    #    tagline: "Cisco Certified network Associate (CCNA)"
 
-      - title: 
+    #  - title: 
     #    link: "#"
-        tagline: "Cisco Certified Security Associate (CCNA Security)"
+    #    tagline: "Cisco Certified Security Associate (CCNA Security)"
         
-       - title: 
+    #   - title: 
     #    link: "#"
-         tagline: "Cisco Certified Design Associate (CCDA)"
+    #     tagline: "Cisco Certified Design Associate (CCDA)"
         
-       - title: 
+    #   - title: 
     #    link: "#"
-         tagline: "VMware Certified Professional (VCP-DCV)"
+    #     tagline: "VMware Certified Professional (VCP-DCV)"
         
     #    - title: Red Hat System Administrator (RHCSA)
     #    link: "#"
