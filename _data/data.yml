@@ -162,9 +162,7 @@ projects:
     assignments:
       - title: Microsoft
         link: "#hook"
-    #    tagline: "Microsoft Certified IT Professional (MCITP) "
-        details: |
-        - Microsoft Certified IT Professional (MCITP)
+        tagline: "Microsoft Certified IT Professional (MCITP) \n shshshsh"
 
       - title: DevStudio
         link: "#"
