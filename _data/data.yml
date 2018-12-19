@@ -169,9 +169,9 @@ projects:
         link: "#"
         tagline: "Cisco Certified network Associate (CCNA) - Cisco Certified Security Associate (CCNA Security) - Cisco Certified Design Associate (CCDA)"
 
-  #    - title: 
-  #      link: "#"
-   #     tagline: "Microsoft Forefront Threat  Management Gateway"
+      - title: VMware
+    #   link: "#"
+        tagline: "VMware Certified Professional (VCP-DCV)"
 
    #   - title: 
   #      link: "#"
