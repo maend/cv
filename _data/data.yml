@@ -162,7 +162,7 @@ projects:
     assignments:
       - title: Microsoft Certified IT Professional (MCITP)
         link: "#hook"
-   #     tagline: "Microsoft Certified IT Professional (MCITP)"
+        tagline: "Microsoft Certified IT Professional (MCITP)"
 
   #    - title: Microsoft Exchange Server 2016
   #      link: "#"
