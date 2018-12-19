@@ -154,18 +154,16 @@ experiences:
 
 projects:
     title: PROFESSIONAL DEVELOPMENT
-    intro: >
-      - Microsoft Certified IT Professional (MCITP)
-      - Microsoft Exchange Server 2016
-      
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+
+#intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-#      - title: 
+     - title: Microsoft
       #  link: "#hook"
-#        tagline: "Microsoft Certified IT Professional (MCITP)"
+      tagline: "Microsoft Certified IT Professional (MCITP) - Microsoft Exchange Server 2016 - Microsoft Forefront Threat  Management Gateway - Microsoft System Center Configuration Manager"
 
 #      - title: 
   #      link: "#"
