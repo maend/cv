@@ -166,16 +166,16 @@ projects:
         tagline: "Microsoft Certified IT Professional (MCITP) - Microsoft Exchange Server 2016 - Microsoft Forefront Threat  Management Gateway - Microsoft System Center Configuration Manager"
 
       - title: Cisco
-        link: "#"
+        link: "#hook"
         tagline: "Cisco Certified network Associate (CCNA) - Cisco Certified Security Associate (CCNA Security) - Cisco Certified Design Associate (CCDA)"
 
       - title: VMware
-    #   link: "#"
+        link: "#hook"
         tagline: "VMware Certified Professional (VCP-DCV)"
 
-   #   - title: 
-  #      link: "#"
-   #     tagline: "Microsoft System Center Configuration Manager"
+      - title: Red Hat
+        link: "#hook"
+        tagline: "Red Hat System Administrator (RHCSA) - Red Hat High Availability Clustering"
 
     #  - title: 
    #     link: "#"
