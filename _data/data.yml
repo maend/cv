@@ -160,45 +160,70 @@ projects:
  #     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Microsoft
+      - title: Microsoft Certified IT Professional (MCITP)
         link: "#hook"
-        tagline: "Microsoft Certified IT Professional (MCITP) \n shshshsh"
+   #     tagline: "Microsoft Certified IT Professional (MCITP)"
 
-      - title: DevStudio
+      - title: Microsoft Exchange Server 2016
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+  #      tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Microsoft Forefront Threat  Management Gateway
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  #      tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Microsoft System Center Configuration Manager
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+    #    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: Cisco Certified network Associate (CCNA)
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+    #    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      - title: Cisco Certified Security Associate (CCNA Security)
+        link: "#"
+        
+        - title: Cisco Certified Design Associate (CCDA)
+        link: "#"
+        
+        - title: VMware Certified Professional (VCP-DCV)
+        link: "#"
+        
+        - title: Red Hat System Administrator (RHCSA)
+        link: "#"
+        
+        - title: Red Hat High Availability Clustering
+        link: "#"
+        
+        - title: CompTIA Security +
+        link: "#"
+        
+        - title: Certified Ethical Hacker (CEH) V9
+        link: "#"
+        
+        - title: Information Technology Infrastructure Library V3
+        link: "#"
+        
 
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#publications:
+ #   title: Publications
+ #   intro: |
+ #     You can list your publications in this section. Lorem ipsum dolor sit
+ #     amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+ #     bibendum fringilla a eu lectus.
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+ #   papers:
+ #     - title: The Art of Computer Programming
+ #       authors: Donald E. Knuth
+ #       conference: Addison-Wesley, 1968
 
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+ #     - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+ #       authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+ #       conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+ #    - title: A syntax directed compiler for Algol 60
+ #       authors: Edgar T. Irons
+ #       conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
