@@ -153,16 +153,17 @@ experiences:
 
 
 projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: PROFESSIONAL DEVELOPMENT
+ #   intro: >
+ #     You can list your side projects or open source libraries in this
+ #     section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+ #     Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
-      - title: Velocity
+      - title: Microsoft
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Microsoft Certified IT Professional (MCITP) 
+                  Microsoft Exchange Server 2016  "
 
       - title: DevStudio
         link: "#"
